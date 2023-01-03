@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   push:
     branches: 
-      - main
+      - manuel_update
   schedule:
     - cron: '0 0 * * *'
 
