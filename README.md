@@ -1,7 +1,7 @@
 ### Hi there 👋 bronson113 here 🌞
 <div align="center">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/bronson113/bronson113/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/bronson113/bronson113/snake/github-snake.svg#gh-light-mode-only)
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/bronson113/bronson113/snake/github-snake-dark.svg#gh-dark-mode-only)
 
