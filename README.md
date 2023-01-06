@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-269-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118%20Thousand%20lines%20of%20code-blue)
 
@@ -38,11 +38,15 @@
 ⌚︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Python                   13 mins             ███████████████████████░░   95.36% 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
+Bash                     47 mins             ████████░░░░░░░░░░░░░░░░░   33.58% 
+Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   30.89% 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   22.48% 
+Vim Script               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+Vim                      1 hr 18 mins        █████████████░░░░░░░░░░░░   55.08% 
+VS Code                  1 hr 4 mins         ███████████░░░░░░░░░░░░░░   44.92%
 
 ```
 
@@ -59,5 +63,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-01-05 04:48:22 UTC
+ Last Updated on 2023-01-06 01:00:50 UTC
 <!--END_SECTION:waka-->
