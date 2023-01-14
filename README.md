@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-290-blue)
 
@@ -38,10 +38,11 @@
 ⌚︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Scala                    1 hr 42 mins        █████████████████████████   100.0%
+Scala                    1 hr 42 mins        ████████████████████████░   95.51% 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 
 🔥 Editors: 
-Vim                      1 hr 42 mins        █████████████████████████   100.0%
+Vim                      1 hr 47 mins        █████████████████████████   100.0%
 
 ```
 
@@ -58,5 +59,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-01-13 01:01:30 UTC
+ Last Updated on 2023-01-14 00:56:42 UTC
 <!--END_SECTION:waka-->
