@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -37,11 +37,11 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Python                   6 hrs 49 mins       █████████████████████████   99.87 % 
+Python                   6 hrs 49 mins       █████████████████████████   99.82 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
 Vim                      6 hrs 50 mins       █████████████████████████   100.00 % 
@@ -60,5 +60,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-08 01:03:25 UTC
+ Last Updated on 2023-06-09 01:05:01 UTC
 <!--END_SECTION:waka-->
