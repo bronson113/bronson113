@@ -37,10 +37,10 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,5 +56,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-26 01:10:41 UTC
+ Last Updated on 2023-06-27 01:09:10 UTC
 <!--END_SECTION:waka-->
