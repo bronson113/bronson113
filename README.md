@@ -7,6 +7,11 @@
 
 </div>
 
+### Visit my website!
+[Blog](https://bronson113.github.io/) - CTF writeups, Security Researches, and more! 
+
+> Build with jekyell, hosted on github 😀
+
 ### Some of my stats 📊
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=bronson113&theme=transparent&show_icons=true)
 
