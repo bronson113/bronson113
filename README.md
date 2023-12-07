@@ -20,33 +20,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                238 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌆 Daytime                246 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌃 Evening                420 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
-🌙 Night                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Indiana/Indianapolis
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -61,5 +37,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-12-06 00:56:59 UTC
+ Last Updated on 2023-12-07 00:56:29 UTC
 <!--END_SECTION:waka-->
