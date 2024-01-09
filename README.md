@@ -20,7 +20,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,12 +42,10 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-HTML                     45 mins             █████████████████████████   98.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+HTML                     45 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   98.54 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +61,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-08 00:57:34 UTC
+ Last Updated on 2024-01-09 00:57:20 UTC
 <!--END_SECTION:waka-->
