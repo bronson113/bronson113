@@ -1,4 +1,4 @@
-### Hi there 👋 bronson113 here 🌞
+## Hi there 👋 bronson113 here 🌞
 <div align="center">
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/bronson113/bronson113/snake/github-snake.svg#gh-light-mode-only)
@@ -7,12 +7,17 @@
 
 </div>
 
-### Visit my website!
+## Visit my website!
 [Blog](https://bronson113.github.io/) - CTF writeups, Security Researches, and more! 
 
 > Build with jekyell, hosted on github 😀
 
-### Some of my stats 📊
+### My Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Some of my stats 📊
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=bronson113&theme=transparent&show_icons=true)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bronson113&theme=transparent&layout=compact&card_width=445)
