@@ -12,7 +12,7 @@
 
 > Build with jekyell, hosted on github 😀
 
-### My Recent Blog posts
+### My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [MapleCTF 2023 - lost-in-space](http://blog.bronson113.org/2023/10/03/maplectf-2023-lost-in-space.html)
