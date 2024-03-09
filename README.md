@@ -15,6 +15,11 @@
 ### My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MapleCTF 2023 - lost-in-space](http://blog.bronson113.org/2023/10/03/maplectf-2023-lost-in-space.html)
+- [HITCON CTF 2023 - LessEQualmore / SUBformore](http://blog.bronson113.org/2023/09/10/hitcon-ctf-2023-lessequalmore-subformore.html)
+- [HITCON CTF 2023 - Careless Padding](http://blog.bronson113.org/2023/09/08/hitconctf-2023-careless-padding.html)
+- [UIUCTF 2023 Writeups](http://blog.bronson113.org/2023/07/03/uiuctf-2023-writeups.html)
+- [GoogleCTF 2023 Writeup](http://blog.bronson113.org/2023/06/26/googlectf-2023-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my stats 📊
