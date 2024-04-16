@@ -15,11 +15,11 @@
 ### My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [b01lersCTF 2024 Author Writeup](http://blog.bronson113.org/2024/04/15/b01lersctf-2024-author-writeup.html)
 - [ACSC 2024 writeup](http://blog.bronson113.org/2024/04/03/acsc-2024-writeup.html)
 - [cursedCTF 2024 - cursed writeup](http://blog.bronson113.org/2024/04/03/cursed.html)
 - [Shader Introduction - Fractal Shader &lpar;Part 1 /???&rpar;](http://blog.bronson113.org/2024/03/12/shader-introduction-fractal-shader-part-1.html)
 - [MapleCTF 2023 - lost-in-space](http://blog.bronson113.org/2023/10/03/maplectf-2023-lost-in-space.html)
-- [HITCON CTF 2023 - LessEQualmore / SUBformore](http://blog.bronson113.org/2023/09/10/hitcon-ctf-2023-lessequalmore-subformore.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my stats 📊
