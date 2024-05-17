@@ -30,6 +30,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-839.5%20thousand%20lines%20of%20code-blue)
@@ -74,5 +76,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-05-16 00:57:17 UTC
+ Last Updated on 2024-05-17 00:57:12 UTC
 <!--END_SECTION:waka-->
