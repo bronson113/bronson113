@@ -30,7 +30,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,10 +52,10 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 47 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 35 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Vim                      1 hr 47 mins        █████████████████████████   100.00 % 
+Vim                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +71,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-12-31 01:10:33 UTC
+ Last Updated on 2025-01-01 01:17:26 UTC
 <!--END_SECTION:waka-->
