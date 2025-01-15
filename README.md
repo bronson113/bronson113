@@ -30,9 +30,37 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                836 commits         █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌆 Daytime                368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌃 Evening                645 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌙 Night                  445 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Indiana/Indianapolis
+
+💬 Programming Languages: 
+TypeScript               3 hrs 9 mins        ████████████░░░░░░░░░░░░░   46.40 % 
+Markdown                 2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+Vim Script               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+PHP                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+
+🔥 Editors: 
+Vim                      6 hrs 48 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -47,5 +75,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-01-14 01:08:18 UTC
+ Last Updated on 2025-01-15 01:09:58 UTC
 <!--END_SECTION:waka-->
