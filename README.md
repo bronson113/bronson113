@@ -30,9 +30,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -52,14 +52,14 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-TypeScript               10 hrs 33 mins      ██████████████░░░░░░░░░░░   56.96 % 
-Python                   6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
-C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               10 hrs 33 mins      ██████████████░░░░░░░░░░░   57.20 % 
+Python                   6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
+C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Vim                      18 hrs 31 mins      █████████████████████████   100.00 % 
+Vim                      18 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +75,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-02-05 01:10:28 UTC
+ Last Updated on 2025-02-06 01:10:58 UTC
 <!--END_SECTION:waka-->
