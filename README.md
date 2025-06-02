@@ -30,7 +30,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,11 +52,11 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       █████████████████████████   99.96 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               7 hrs 49 mins       █████████████████████████   99.98 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Vim                      5 hrs 12 mins       █████████████████████████   100.00 % 
+Vim                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +72,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-01 01:44:01 UTC
+ Last Updated on 2025-06-02 01:25:18 UTC
 <!--END_SECTION:waka-->
