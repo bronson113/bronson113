@@ -52,12 +52,10 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████████████████████░░░   88.20 % 
-Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-fugitiveblame            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +71,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-11-18 01:55:41 UTC
+ Last Updated on 2025-11-19 01:55:40 UTC
 <!--END_SECTION:waka-->
