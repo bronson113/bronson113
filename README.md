@@ -52,10 +52,10 @@
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Python                   28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +71,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-12-06 01:59:14 UTC
+ Last Updated on 2025-12-07 02:05:38 UTC
 <!--END_SECTION:waka-->
