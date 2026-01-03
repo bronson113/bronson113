@@ -30,33 +30,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C259%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1012 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌆 Daytime                838 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-🌃 Evening                864 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌙 Night                  1045 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Indiana/Indianapolis
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -71,5 +47,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-01-02 02:06:18 UTC
+ Last Updated on 2026-01-03 02:05:33 UTC
 <!--END_SECTION:waka-->
